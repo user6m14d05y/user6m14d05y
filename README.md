@@ -2,7 +2,7 @@
 
 ### Full Stack Web Developer
 
-Email: [Butrongthanh2k5@gmail.com](mailto:Butrongthanh2k5@gmail.com) | [https://thanhbui.click](https://thanhbui.click)
+Email: [Butrongthanh2k5@gmail.com](mailto:Butrongthanh2k5@gmail.com) | Website demo: [https://thanhbui.click](https://thanhbui.click)
 
 ---
 
