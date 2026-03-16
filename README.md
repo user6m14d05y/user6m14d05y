@@ -2,8 +2,11 @@
 ### Full-stack Web Developer Intern
 
 **Email:** buitrongthanh2k5@gmail.com
+
 **Website Demo:** [thanhbui.click](https://thanhbui.click)
+
 **Facebook:** [05.thanh](https://www.facebook.com/05.thanh)
+
 **Location:** Buon Trap - Cu M'gar - Dak Lak, Vietnam
 
 ---
