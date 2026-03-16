@@ -1,13 +1,8 @@
 # BUI TRONG THANH (Bong)
 ### Full-stack Web Developer Intern
-
-**Email:** buitrongthanh2k5@gmail.com
-
-**Website Demo:** [thanhbui.click](https://thanhbui.click)
-
+**Website Demo:** [Thanh Bui Shop](https://thanhbui.click) | [Thanh Bui Camera](https://ps46198.thanhbui.click)
 **Facebook:** [05.thanh](https://www.facebook.com/05.thanh)
-
-**Location:** Buon Trap - Cu M'gar - Dak Lak, Vietnam
+**Instagram:** [05_thanh](https://www.instagram.com/05_thanh)
 
 ---
 
