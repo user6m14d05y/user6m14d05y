@@ -1,5 +1,5 @@
 # BUI TRONG THANH (Bong)
-### Full-stack Web Developer Intern
+### Full-stack Web Developer
 **Website Demo:** [Thanh Bui Shop](https://thanhbui.click), [Thanh Bui Camera](https://ps46198.thanhbui.click) <br>
 **Facebook:** [05.thanh](https://www.facebook.com/05.thanh) <br>
 **Instagram:** [05_thanh](https://www.instagram.com/05_thanh)
