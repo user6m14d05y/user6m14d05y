@@ -56,4 +56,3 @@ I am a Web Programming student with strong logical thinking and a passion for te
 
 ## REFERENCES
 * **Le Hong Son** - IT Lecturer, FPT Polytechnic Tay Nguyen (Email: sonlh@fpt.edu.vn)
-* **Do Thi Bich Van** - IT Lecturer, FPT Polytechnic Tay Nguyen (Email: sonlh@fpt.edu.vn)
