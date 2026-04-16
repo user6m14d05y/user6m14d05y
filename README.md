@@ -1,5 +1,5 @@
 # BUI TRONG THANH (Bong)
-### Full-stack Web Developer
+### Web Developer
 **Website Demo:** [Thanh Bui Shop](https://thanhbui.click), [Thanh Bui Camera](https://ps46198.thanhbui.click) <br>
 **Facebook:** [05.thanh](https://www.facebook.com/05.thanh) <br>
 **Linkedin:** [user6m14d05y](https://www.linkedin.com/in/user6m14d05y/)
@@ -7,9 +7,9 @@
 ---
 
 ## PROFILE
-I am a Web Programming student with strong logical thinking and a passion for technology. I am seeking an internship or entry-level position as a Full-Stack Web Developer to apply my knowledge of Vue.js, PHP, and Laravel in a professional environment, with the long-term goal of becoming a professional Full-Stack Developer.
+I am a Web Programming student with strong logical thinking and a passion for technology. I am seeking an internship or entry-level position as a Full-Stack Web Developer to apply my knowledge of Vue.js, PHP, and Laravel in a professional environment, with the long-term goal of becoming a professional Frontend / Backend Developer.
 
-* **Short-term Goal:** Seeking an internship or full-time opportunity as a Full-stack Web Developer to apply my knowledge of Vue.js, PHP, and Laravel in a real-world corporate environment.
+* **Short-term Goal:** Seeking an internship or full-time opportunity as a Frontend / Backend Web Developer to apply my knowledge of Vue.js, PHP, and Laravel in a real-world corporate environment.
 * **Long-term Goal:** To become a professional Full-stack Developer.
 
 ---
@@ -42,7 +42,7 @@ I am a Web Programming student with strong logical thinking and a passion for te
   * Collaborated on writing project documentation and handling data with the Backend.
 
 ### 2. TBS MOBILE PHONE WEBSITE (07/2025 - 08/2025)
-* **Position:** Full-stack Web Developer
+* **Position:** Frontend / Backend Web Developer
 * **Technologies:** HTML, CSS, JavaScript, Core PHP, MySQL.
 * **Role & Achievements:**
   * Developed core features using Core PHP.
