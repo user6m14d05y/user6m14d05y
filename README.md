@@ -21,12 +21,22 @@ I am a Web Programming student with strong logical thinking and a passion for te
 
 ---
 
-## KEY SKILLS
-* **Front-end:** HTML, CSS, JavaScript, Vue.js
-* **Back-end:** PHP, Laravel, Node.js
-* **Database:** MySQL
-* **Tools:** VS Code, Docker, phpMyAdmin, HeidiSQL
-* **Design & Others:** Figma (UI/UX Design), Project Documentation, Git/GitHub, Photography (Canon EOS 750D).
+## TECHNICAL SKILLS
+
+**Languages:**
+JavaScript, PHP
+
+**Frameworks & Libraries:**
+Laravel, Node.js, React.js, Flutter, Vue.js, TailwindCSS, Bootstrap
+
+**Databases:**
+MySQL, MongoDB, Redis
+
+**Tools & Platforms:**
+Git/GitHub, Docker, Postman, VS Code, Visual Studio, phpMyAdmin, HeidiSQL
+
+**Others:**
+Figma (UI/UX Design), RESTful API Development, Project Documentation
 
 ---
 
