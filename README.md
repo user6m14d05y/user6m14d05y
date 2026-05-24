@@ -16,7 +16,7 @@ I am a Web Programming student with strong logical thinking and a passion for te
 
 ## EDUCATION & CERTIFICATES
 * **FPT Polytechnic College** (09/2024 - Present)
-  * Major: Web Programming
+  * Major: Web Development
 * **Certifications:** BEES TYPE 2025 FPT Polytechnic
 
 ---
@@ -24,16 +24,19 @@ I am a Web Programming student with strong logical thinking and a passion for te
 ## TECHNICAL SKILLS
 
 **Languages:**
-JavaScript, PHP
+HTML5, CSS3, JavaScript, PHP
 
 **Frameworks & Libraries:**
 Laravel, Node.js, React.js, Flutter, Vue.js, TailwindCSS, Bootstrap
 
-**Databases:**
+**Databases & Cache:**
 MySQL, MongoDB, Redis
 
 **Tools & Platforms:**
-Git/GitHub, Docker, Postman, VS Code, Visual Studio, phpMyAdmin, HeidiSQL
+Git/GitHub, Docker, Postman, VS Code, Visual Studio, WSL Ubuntu, aaPanel, phpMyAdmin, HeidiSQL, 9Router
+
+**AI Skills:**
+Chat GPT, Claude Code, OpenAI Codex, Antigravity, Google Gemini, DeepSeek, OpenArt
 
 **Others:**
 Figma (UI/UX Design), RESTful API Development, Project Documentation
