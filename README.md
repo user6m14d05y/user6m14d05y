@@ -15,7 +15,7 @@ To secure a **Full-Stack / Backend Developer Internship** where I can contribute
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Programming Languages** | JavaScript (Advanced), TypeScript, PHP, Node.js, HTML5, CSS3 |
+| **Programming Languages** | JavaScript (Advanced), TypeScript, PHP, Node.js|
 | **Frameworks & Libraries** | Laravel, Express.js, React.js, Vue.js, Nuxt (SSR/SSG), Flutter, Tailwind CSS, Bootstrap |
 | **Databases & Cache** | MySQL, MongoDB, Redis |
 | **DevOps & Infrastructure** | Docker, Docker Compose, WSL Ubuntu, Nginx, Caddy (SSL/Reverse Proxy) |
@@ -105,7 +105,7 @@ To secure a **Full-Stack / Backend Developer Internship** where I can contribute
 
 ## References
 * **Le Hong Son** – IT Lecturer, FPT Polytechnic Tây Nguyên  
-  * 📧 **Email:** [sonlh@fpt.edu.vn](mailto:sonlh@fpt.edu.vn)
+  * **Email:** [sonlh@fpt.edu.vn](mailto:sonlh@fpt.edu.vn)
 
 ---
 
